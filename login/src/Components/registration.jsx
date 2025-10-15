@@ -25,6 +25,7 @@ const Registration = () => {
     <div className="p-8 max-w-sm mx-auto">
       <h2 className="text-xl mb-4 font-bold">Registration</h2>
       <form onSubmit={handleSubmit} className="space-y-4">
+        <h1>hello</h1>
         <input
           className="w-full p-2 border rounded"
           placeholder="Name"
